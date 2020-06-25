@@ -1,0 +1,46 @@
+body{
+    background-color: white;
+    color: black;
+    font-size: 16px;
+}
+#header-nav{
+    background-color: grey;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.navbar-toggle{
+    background-color: transparent;
+    width: 25px;
+    height: 25px;
+    border: 2px solid black;
+}
+.navbar-toggle:hover{
+    background-color: transparent;
+    border: 2px solid white;
+}
+.navbar-toggle hr{
+    border: 1px solid black;
+    margin: 0px;
+    margin-top: 3px;
+}
+.navbar-brand h1{
+    color: black;
+}
+.nav-item{
+    background-color: sandybrown;
+    color: black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    text-align: center;
+}
+#para{
+    background-color: grey;
+}
+.name{
+    text-align: center;
+    font-size: 25px;
+}
+#Row{
+    margin: 10px;
+    padding: 10px;
+}
